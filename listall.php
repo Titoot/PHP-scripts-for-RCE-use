@@ -19,5 +19,5 @@ function listFolderFiles($dir){
 }
 
 
-listFolderFiles('../..');
+listFolderFiles('../..'); //CHANGE THIS
 ?> 
