@@ -1,6 +1,6 @@
 <?php
-$filename = "example.sql.zip";
-$file = "../../".$filename;
+$filename = "example.sql.zip"; //Change
+$file = "../../".$filename; //Change
 
 header('Content-type: application/octet-stream');
 header("Content-Type: ".mime_content_type($file));
